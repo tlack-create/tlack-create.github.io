@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Teddy Lack's Portfolio
+title: Teddy Lack Portfolio
 
 ---## Portfolio
 
