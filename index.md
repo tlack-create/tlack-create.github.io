@@ -6,7 +6,7 @@
 
 ---
 ### Bioinformatics Data Analysis Report
-This project involves analyzing biological data using bioinformatics tools. The report presents findings from the analysis of genetic and molecular data, highlighting trends and insights.
+This analysis was my Bioinformatics final exam. Analysing biological data using bioinformatics tools and RStudio. The report presents findings from the analysis of genetic and molecular data, highlighting trends and insights from COVID-19.
 
 <object data="pdf/190260662_BMS3025_Report%20(1).pdf" type="application/pdf" width="100%" height="600px">
     <p>Your browser does not support PDFs. <a href="pdf/190260662_BMS3025_Report%20(1).pdf">Download the PDF</a>.</p>
@@ -14,7 +14,7 @@ This project involves analyzing biological data using bioinformatics tools. The 
 
 ---
 ### Netflix PowerBI Dashboard
-This project visualizes Netflix data using Power BI, with insights into viewing patterns, genre popularity, and other key metrics. It is a comprehensive dashboard for analyzing trends in Netflix's catalog and user activity.
+This project visualises Netflix data using Power BI, with insights into viewing patterns, genre popularity, and other key metrics. It is a comprehensive dashboard for analysing trends in Netflix's catalog and user activity.
 
 <object data="pdf/Netflix%20PowerBI%20Dashboard.pdf" type="application/pdf" width="100%" height="600px">
     <p>Your browser does not support PDFs. <a href="pdf/Netflix%20PowerBI%20Dashboard.pdf">Download the PDF</a>.</p>
