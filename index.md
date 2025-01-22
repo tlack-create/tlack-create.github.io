@@ -4,7 +4,7 @@
 
 ### My Projects
 
-[Nitric Oxide and the Pedunculopontine Nucleus](/sample_page)
+[Nitric Oxide and the Pedunculopontine Nucleus](/<a href="pdf/Resume.pdf">CV</a>)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
