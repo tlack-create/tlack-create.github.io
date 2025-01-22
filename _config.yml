@@ -1,22 +1,19 @@
-title: Teddy Lack # your name (or website title) here
-logo: "/images/image.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
- <p align="center">
-  <a href="pdf/Resume.pdf">CV</a> |
-  <a href="https://www.linkedin.com/in/chriskhanhtran/">LinkedIn</a> |
-  <a href="https://github.com/tlack-create">GitHub</a>
+title: Teddy Lack
+logo: "/images/image.png?raw=true"
+description: >
+  <p align="center">
+    <a href="pdf/Resume.pdf">CV</a> |
+    <a href="https://www.linkedin.com/in/teddy-lack-b02b291bb/">LinkedIn</a> |
+    <a href="https://github.com/tlack-create">GitHub</a>
   </p>
   
   <p align="justify">
-  I am a recent Biomedical Sciences graduate from Newcastle University. I undertook an industrial placement year which I spent at GSK within their regulatory affairs team.
-  <br><br>
-  Since graduating in 2023, I have taken some time out of work to travel South-East Asia.
-  <br><br>
-  I am currently a looking for a graduate position within analytics with a particular interest in financial markets.
-  <br><br>
+    I am a Biomedical Sciences graduate from Newcastle University with a year of industrial experience at GSK in regulatory affairs. 
+    <br><br>
+    After graduating in 2023, I spent time traveling in South-East Asia. I am now seeking a graduate role in analytics, focusing on financial markets.
   </p>
-  
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+google_analytics: UA-000000-0
