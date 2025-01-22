@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
-[Project 1 Title](/sample_page)
+[Nitric Oxide and the Pedunculopontine Nucleus](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bioinformatics Data Analysis Report](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[PowerBI Netflix Dashboard](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
