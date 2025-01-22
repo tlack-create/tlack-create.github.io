@@ -1,9 +1,4 @@
 ---
-
-layout: default
-title: Teddy Lack Portfolio
-
----
 ## Portfolio
 
 ---
