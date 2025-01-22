@@ -12,9 +12,10 @@
 </object>
 
 ---
-[PowerBI Netflix Dashboard](pdf/Netflix%20PowerBI%20Dashboard.pbix)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Download PowerBI Netflix Dashboard (PBIX)](pdf/Netflix%20PowerBI%20Dashboard.pbix)
 
-<object data="pdf/Netflix%20PowerBI%20Dashboard.pbix" type="application/octet-stream" width="100%" height="600px">
+<object data="pdf/Netflix%20PowerBI%20Dashboard.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="pdf/Netflix%20PowerBI%20Dashboard.pdf">Download the PDF</a>.</p>
+</object>
 
 ---
